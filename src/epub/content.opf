@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/othello</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-01-23T22:50:16Z</dc:date>
+		<meta property="dcterms:modified">2021-01-23T22:50:16Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,18 +42,18 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008124067</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">Jealousy destroys the marriage between an older, black man and a younger, white woman.</dc:description>
+		<dc:description id="description">Jealousy destroys the marriage between an older black man and a younger white woman in 1500s Venice.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Othello&lt;/i&gt; is a tragedy by &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt;, written in 1603. It is based on “A Moorish Captain,” one of the stories in Cinthio’s &lt;i&gt;Hecatommithi&lt;/i&gt;, written in 1565.&lt;/p&gt;
-			&lt;p&gt;Othello is a black general in Venice, known for his military prowess. He elopes with Desdemona, a noble Venetian lady, who is the daughter of Brabantio, a senator. Othello promotes Cassio to be his lieutenant over Iago, his ensign. The evil Iago gets his revenge by sowing doubts in the mind of Othello, alleging an affair between Cassio and Desdemona.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Othello&lt;/i&gt; was written in 1603 and first performed in 1604. The underlying story is based on “A Moorish Captain,” one of the stories in Cinthio’s &lt;i&gt;Gli Hecatommithi&lt;/i&gt;, written in 1565.&lt;/p&gt;
+			&lt;p&gt;Othello is a Moorish black general in Venice, known for his military prowess. He elopes with Desdemona, a noble Venetian lady, who is the daughter of Brabantio, a senator. When Othello promotes Cassio to be his lieutenant over Iago, his ensign, the evil Iago gets his revenge by alleging an affair between Cassio and Desdemona, sowing doubt in the mind of Othello.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/othello/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">28453</meta>
+		<meta property="se:reading-ease.flesch">74.29</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Othello</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_othello</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
@@ -78,6 +78,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
