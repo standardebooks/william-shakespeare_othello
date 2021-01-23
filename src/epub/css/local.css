@@ -2,10 +2,10 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Drama */
-[epub|type~="z3998:drama"],
 [epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
 	margin: 1em auto;
+	width: 100%;
 }
 
 [epub|type~="z3998:drama"] tr:first-child td{
@@ -114,5 +114,9 @@ tr.together td + td{
 
 [epub|type~="z3998:dramatis-personae"] p{
 	text-indent: 0;
+}
+
+[epub|type~="z3998:dramatis-personae"] ul + p{
+	margin-top: 2em;
 }
 /* End dramatis personae */
