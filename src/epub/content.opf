@@ -42,6 +42,9 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008124067</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">4</meta>
 		<dc:description id="description">Jealousy destroys the marriage between an older black man and a younger white woman in 1500s Venice.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Othello&lt;/i&gt; was written in 1603 and first performed in 1604. The underlying story is based on “A Moorish Captain,” one of the stories in Cinthio’s &lt;i&gt;Gli Hecatommithi&lt;/i&gt;, written in 1565.&lt;/p&gt;
