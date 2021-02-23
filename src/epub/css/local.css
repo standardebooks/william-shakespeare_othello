@@ -90,8 +90,8 @@ tr.together td + td{
 [epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:song"] p > span + br,
