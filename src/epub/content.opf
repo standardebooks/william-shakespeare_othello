@@ -50,7 +50,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Othello&lt;/i&gt; was written in 1603 and first performed in 1604. The underlying story is based on “A Moorish Captain,” one of the stories in Cinthio’s &lt;i&gt;Gli Hecatommithi&lt;/i&gt;, written in 1565.&lt;/p&gt;
 			&lt;p&gt;Othello is a Moorish black general in Venice, known for his military prowess. He elopes with Desdemona, a noble Venetian lady, who is the daughter of Brabantio, a senator. When Othello promotes Cassio to be his lieutenant over Iago, his ensign, the evil Iago gets his revenge by alleging an affair between Cassio and Desdemona, sowing doubt in the mind of Othello.&lt;/p&gt;
-			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/othello/full.html</dc:source>
