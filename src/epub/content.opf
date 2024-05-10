@@ -57,7 +57,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
 		<meta property="se:word-count">28452</meta>
-		<meta property="se:reading-ease.flesch">74.39</meta>
+		<meta property="se:reading-ease.flesch">74.49</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Othello</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_othello</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
