@@ -78,7 +78,7 @@
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Vraj Mohan</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Mohan, Vraj</meta>
-		<link href="http://www.github.com/vrajmohan" refines="#producer-1" rel="schema:url"/>
+		<link href="https://github.com/vrajmohan" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
